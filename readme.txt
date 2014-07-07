@@ -1,4 +1,4 @@
 Git is a distribution version control system.
 Git is free software distrubition  under the GPL
 my boss is good
-creating a new branch is quick & simple
+creating a new branch is quick and simple
